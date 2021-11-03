@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mnaray
-- 👀 I’m interested in ...
+- 👀 I’m interested in basic informatics at the moment, nothing too fancy... :P
 - 🌱 I’m currently learning informatics at BFS BBB in Baden, Switzerland
-- 💞️ I’m currently not looking to collaborate with anyone
+- 💞️ I’m currently not really looking forward to collaborating with anyone, but if you're interested in something, just lmk.
 - 📫 How to reach me -> Just send me an e-mail to **m.naray.inf21@stud.bbbaden.ch**
 
 <!---
