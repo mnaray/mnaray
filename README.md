@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mnaray
-- 👀 I’m interested in basic informatics and network security at the moment.
+- 👀 I’m interested in basic informatics and network security.
 - 🌱 I’m currently studying informatics at BFS BBB in Baden, Switzerland.
 - 💞️ I’m currently looking forward to collaborating with someone who is more or less on the same level as me in terms of coding! (check out some recent repos)
 - 📫 How to reach me -> Just send an e-mail to **m.naray.inf21@stud.bbbaden.ch**  -  I'll make sure to check it out.
