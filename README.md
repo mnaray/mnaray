@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnaray&label=Profile%20views&color=0e75b6&style=flat" alt="mnaray" /> </p>
 
-- 👯 I’m looking to collaborate on **some cool open source projects!**
+- 👯 I’m looking to collaborate on **some fun open source projects!**
 
-- 🤝 I’m looking for help with **finding some people to regularly code with in my free time.**
+- 🤝 I’m looking for help with **finding some people to code with in my free time.**
 
-- 👨‍💻 All of my public projects are available on [https://github.com/mnaray](https://github.com/mnaray)
+- 👨‍💻 All of my public projects are available here on [GitHub](https://github.com/mnaray)
 
-- 📄 Find out about my experiences (login required) [https://portfolio.bbbaden.ch/user/m-naray-inf21](https://portfolio.bbbaden.ch/user/m-naray-inf21)
+- 📄 Check out some of my Portfolios! (login required) [https://portfolio.bbbaden.ch/user/m-naray-inf21](https://portfolio.bbbaden.ch/user/m-naray-inf21)
 
-- ⚡ Fun fact: **I enjoy working on projects in my free time a lot! :D**
+- ⚡ Fun fact about me: **I enjoy working on projects in my free time a lot!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
