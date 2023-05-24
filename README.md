@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **finding some people to code with in my free time.**
 
-- 👨‍💻 All of my public projects are available here on [GitHub](https://github.com/mnaray)
+- 👨‍💻 All of my public projects are available here on [GitHub](https://github.com/mnaray).
 
 - 📄 Check out some of my Portfolios! (login required) [https://portfolio.bbbaden.ch/user/m-naray-inf21](https://portfolio.bbbaden.ch/user/m-naray-inf21)
 
