@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my public projects are available here on [GitHub](https://github.com/mnaray).
 
-- 📄 Check out some of my Portfolios! (login required) [https://portfolio.bbbaden.ch/user/m-naray-inf21](https://portfolio.bbbaden.ch/user/m-naray-inf21)
+- 📄 Check out some of my Portfolios! [https://portfolio.bbbaden.ch/user/m-naray-inf21](https://portfolio.bbbaden.ch/user/m-naray-inf21)
 
 - ⚡ Fun fact about me: **I enjoy working on projects in my free time a lot!**
 
