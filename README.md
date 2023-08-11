@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm mnaray</h1>
-<h3 align="center">An excited IT student from Switzerland</h3>
+<h3 align="center">An enthusiastic IT student from Switzerland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnaray&label=Profile%20views&color=0e75b6&style=flat" alt="mnaray" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📄 Check out some of my Portfolios! [https://portfolio.bbbaden.ch/user/m-naray-inf21](https://portfolio.bbbaden.ch/user/m-naray-inf21)
 
-- ⚡ Fun fact about me: **I enjoy working on projects in my free time a lot!**
+[//]: # (- ⚡ Fun fact about me: **I enjoy working on projects in my free time a lot!**)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
