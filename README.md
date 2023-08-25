@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm mnaray</h1>
-<h3 align="center">An enthusiastic IT student from Switzerland</h3>
+<h3 align="center">An enthusiastic IT student from Switzerland, exceeding in software development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnaray&label=Profile%20views&color=0e75b6&style=flat" alt="mnaray" /> </p>
 
 - 👯 I’m looking to collaborate on **some fun open source projects!**
 
-- 🤝 I’m looking for help with **finding some people to code with in my free time.**
+[//]: # (- 🤝 I’m looking for help with **finding some people to code with in my free time.**)
 
 - 👨‍💻 All of my public projects are available here on [GitHub](https://github.com/mnaray).
 
