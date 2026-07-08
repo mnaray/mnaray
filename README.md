@@ -5,8 +5,6 @@
 
 - 🌱 Currently I’m mostly working with **Ruby on Rails**
 
-- 👨‍💻 Check out some of my Portfolios! [https://portfolio.bbbaden.ch/user/m-naray-inf21](https://portfolio.bbbaden.ch/user/m-naray-inf21)
-
 - 👯 I’m looking to collaborate on **some fun open source projects!**
 
 <h3 align="left">Connect with me:</h3>
